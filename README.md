@@ -1,5 +1,14 @@
 # Tinymce integration with kcfinder
 
+<h3>Introduction</h3>
+In this project the library used is : <br>
+<ul>
+  <li>Tinymce version 4.5.2</li>
+  <li>Kcfinder version 3.10</li>
+</ul>
+
+<hr>
+
 <h3>Tinymce</h3>
 The world's #1 open source rich text editor.
 
